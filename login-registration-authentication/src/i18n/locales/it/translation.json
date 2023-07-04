@@ -1,0 +1,54 @@
+{
+    "appHeader": {
+        "headerText": "La mia applicazione React Redux",
+        "selectLanguage": "Seleziona il paese per cambiare lingua",
+        "copyRights": "Tutti i diritti riservati."
+    },
+    "login": {
+        "title": "Accesso",
+        "email": "Email",
+        "password": "Password",
+        "emailRequired": "L'email è obbligatoria",
+        "invalidEmail": "Inserisci un indirizzo email valido",
+        "passwordRequired": "La password è obbligatoria",
+        "invalidPassword": "Inserisci una password valida",
+        "notRegisterd": "Non sei ancora registrato?",
+        "registerHere": "Registrati qui",
+        "loginSuccess": "Accesso riuscito",
+        "loginFailure": "Accesso fallito...!!!",
+        "userNotFound": "Utente non trovato"
+    },
+    "registration": {
+        "title": "Registrazione",
+        "createAccount": "Crea il tuo account",
+        "fnameRequired": "Il nome è obbligatorio",
+        "lnameRequired": "Il cognome è obbligatorio",
+        "emailRequired": "L'indirizzo email è obbligatorio",
+        "invalidEmail": "Questo non è un formato email valido!",
+        "passwordRequired": "La password è obbligatoria",
+        "invalidPassword": "Inserisci una password valida",
+        "cpasswordRequired": "La conferma della password è obbligatoria",
+        "passwordMatch": "La password e la conferma devono coincidere",
+        "invalidCpassword": "Inserisci una password valida",
+        "userExists": "L'utente esiste già",
+        "registrationSuccess": "Registrazione avvenuta con successo!",
+        "firstName": "Nome",
+        "lastName": "Cognome",
+        "regEmail": "Email",
+        "regPassword": "Password",
+        "confirmPassword": "Conferma password",
+        "alreadyRegisterd": "Già registrato?",
+        "reLogin": "Accedi"
+    },
+    "profile": {
+        "title": "Benvenuto",
+        "userDetail": "Ecco i dettagli del tuo utente",
+        "tableHeader1": "Nome",
+        "tableHeader2": "Cognome",
+        "tableHeader3": "Email",
+        "tableHeader4": "Password",
+        "tableHeader5": "Conferma Password",
+        "tableHeader6": "Azioni",
+        "button": "Logout"
+    }
+}

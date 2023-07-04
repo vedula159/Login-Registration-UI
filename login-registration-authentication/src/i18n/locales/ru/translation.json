@@ -1,0 +1,54 @@
+{
+    "appHeader": {
+        "headerText": "Мое приложение React Redux",
+        "selectLanguage": "Выберите страну для изменения языка",
+        "copyRights": "Все права защищены."
+    },
+    "login": {
+        "title": "Вход",
+        "email": "Email",
+        "password": "Пароль",
+        "emailRequired": "Email обязателен",
+        "invalidEmail": "Пожалуйста, введите корректный адрес электронной почты",
+        "passwordRequired": "Пароль обязателен",
+        "invalidPassword": "Пожалуйста, введите корректный пароль",
+        "notRegisterd": "Еще не зарегистрированы?",
+        "registerHere": "Зарегистрируйтесь здесь",
+        "loginSuccess": "Вход выполнен успешно",
+        "loginFailure": "Ошибка входа...!!!",
+        "userNotFound": "Пользователь не найден"
+    },
+    "registration": {
+        "title": "Регистрация",
+        "createAccount": "Создайте свою учетную запись",
+        "fnameRequired": "Имя обязательно",
+        "lnameRequired": "Фамилия обязательна",
+        "emailRequired": "Требуется адрес электронной почты",
+        "invalidEmail": "Неверный формат адреса электронной почты!",
+        "passwordRequired": "Требуется пароль",
+        "invalidPassword": "Введите правильный пароль",
+        "cpasswordRequired": "Требуется подтверждение пароля",
+        "passwordMatch": "Пароль и подтверждение пароля должны совпадать",
+        "invalidCpassword": "Введите правильный пароль",
+        "userExists": "Пользователь уже существует",
+        "registrationSuccess": "Регистрация успешна!",
+        "firstName": "Имя",
+        "lastName": "Фамилия",
+        "regEmail": "Email",
+        "regPassword": "Пароль",
+        "confirmPassword": "Подтвердите пароль",
+        "alreadyRegisterd": "Уже зарегистрированы?",
+        "reLogin": "Войти"
+    },
+    "profile": {
+        "title": "Добро пожаловать",
+        "userDetail": "Вот детали вашего профиля",
+        "tableHeader1": "Имя",
+        "tableHeader2": "Фамилия",
+        "tableHeader3": "Эл. почта",
+        "tableHeader4": "Пароль",
+        "tableHeader5": "Подтвердите пароль",
+        "tableHeader6": "Действия",
+        "button": "Выйти"
+    }
+}

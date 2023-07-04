@@ -1,0 +1,54 @@
+{
+    "appHeader": {
+        "headerText": "Mon application React Redux",
+        "selectLanguage": "Sélectionnez le pays pour changer de langue",
+        "copyRights": "Tous droits réservés."
+    },
+    "login": {
+        "title": "Connexion",
+        "email": "Email",
+        "password": "Mot de passe",
+        "emailRequired": "L'email est requis",
+        "invalidEmail": "Veuillez entrer une adresse email valide",
+        "passwordRequired": "Le mot de passe est requis",
+        "invalidPassword": "Veuillez entrer un mot de passe valide",
+        "notRegisterd": "Pas encore inscrit ?",
+        "registerHere": "Inscrivez-vous ici",
+        "loginSuccess": "Connexion réussie",
+        "loginFailure": "Échec de la connexion...!!!",
+        "userNotFound": "Utilisateur non trouvé"
+    },
+    "registration": {
+        "title": "Inscription",
+        "createAccount": "Créez votre compte",
+        "fnameRequired": "Le prénom est requis",
+        "lnameRequired": "Le nom de famille est requis",
+        "emailRequired": "L'adresse e-mail est requise",
+        "invalidEmail": "Ce n'est pas un format d'e-mail valide !",
+        "passwordRequired": "Le mot de passe est requis",
+        "invalidPassword": "Veuillez entrer un mot de passe valide",
+        "cpasswordRequired": "La confirmation du mot de passe est requise",
+        "passwordMatch": "La confirmation du mot de passe doit correspondre au mot de passe",
+        "invalidCpassword": "Veuillez entrer un mot de passe valide",
+        "userExists": "L'utilisateur existe déjà",
+        "registrationSuccess": "Inscription réussie !",
+        "firstName": "Prénom",
+        "lastName": "Nom de famille",
+        "regEmail": "Adresse e-mail",
+        "regPassword": "Mot de passe",
+        "confirmPassword": "Confirmer le mot de passe",
+        "alreadyRegisterd": "Déjà inscrit ?",
+        "reLogin": "Connexion"
+    },
+    "profile": {
+        "title": "Bienvenue",
+        "userDetail": "Voici les détails de votre utilisateur",
+        "tableHeader1": "Prénom",
+        "tableHeader2": "Nom",
+        "tableHeader3": "Email",
+        "tableHeader4": "Mot de passe",
+        "tableHeader5": "Confirmer le mot de passe",
+        "tableHeader6": "Actions",
+        "button": "Déconnexion"
+    }
+}

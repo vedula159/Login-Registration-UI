@@ -1,0 +1,54 @@
+{
+    "appHeader":{
+        "headerText": "My React Redux Application",
+        "selectLanguage": "Select country to change language",
+        "copyRights": "All Rights Reserved."
+    },
+    "login": {
+        "title": "Login",
+        "email": "Email",
+        "password": "Password",
+        "emailRequired": "Email is required",
+        "invalidEmail": "Please enter a valid email address",
+        "passwordRequired": "Password is required",
+        "invalidPassword": "Please enter a valid password",
+        "notRegisterd": "Not yet registered?",
+        "registerHere": "Register Here",
+        "loginSuccess": "Login successful",
+        "loginFailure": "Login failed...!!!",
+        "userNotFound": "User not found"
+    },
+    "registration": {
+        "title": "Registration",
+        "createAccount": "Create your account",
+        "fnameRequired": "First Name is required",
+        "lnameRequired": "Last Name is required",
+        "emailRequired": "Email is required",
+        "invalidEmail": "This is not a valid email format!",
+        "passwordRequired": "Password is required",
+        "invalidPassword": "Please enter a valid password",
+        "cpasswordRequired": "Confirm Password is required",
+        "passwordMatch": "Confirm password and password should be same",
+        "invalidCpassword": "Please enter a valid password",
+        "userExists": "User already exists",
+        "registrationSuccess": "Registration successful!",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "regEmail": "Email",
+        "regPassword": "Password",
+        "confirmPassword": "Confirm Password",
+        "alreadyRegisterd": "Already registered?",
+        "reLogin": "Login"
+    },
+    "profile": {
+        "title": "Welcome",
+        "userDetail": "Here is your user details",
+        "tableHeader1": "First Name",
+        "tableHeader2": "Last Name",
+        "tableHeader3": "Enail",
+        "tableHeader4": "Password",
+        "tableHeader5": "Confirm Password",
+        "tableHeader6": "Actions",
+        "button": "Logout"
+    }
+}

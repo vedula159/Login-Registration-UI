@@ -1,0 +1,54 @@
+{
+  "appHeader": {
+    "headerText": "Mi aplicación React Redux",
+    "selectLanguage": "Selecciona el país para cambiar el idioma",
+    "copyRights": "Todos los derechos reservados."
+  },
+  "login": {
+    "title": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "emailRequired": "El correo electrónico es obligatorio",
+    "invalidEmail": "Por favor, introduce una dirección de correo electrónico válida",
+    "passwordRequired": "La contraseña es obligatoria",
+    "invalidPassword": "Por favor, introduce una contraseña válida",
+    "notRegisterd": "¿Todavía no estás registrado?",
+    "registerHere": "Regístrate aquí",
+    "loginSuccess": "¡Inicio de sesión exitoso!",
+    "loginFailure": "¡Inicio de sesión fallido...!!!",
+    "userNotFound": "Usuario no encontrado"
+  },
+  "registration": {
+    "title": "Registro",
+    "createAccount": "Crea tu cuenta",
+    "fnameRequired": "Se requiere el nombre",
+    "lnameRequired": "Se requiere el apellido",
+    "emailRequired": "Se requiere el correo electrónico",
+    "invalidEmail": "¡Formato de correo electrónico no válido!",
+    "passwordRequired": "Se requiere la contraseña",
+    "invalidPassword": "Ingrese una contraseña válida",
+    "cpasswordRequired": "Se requiere confirmar la contraseña",
+    "passwordMatch": "La contraseña y la confirmación deben ser iguales",
+    "invalidCpassword": "Ingrese una contraseña válida",
+    "userExists": "El usuario ya existe",
+    "registrationSuccess": "¡Registro exitoso!",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "regEmail": "Correo electrónico",
+    "regPassword": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "alreadyRegisterd": "¿Ya estás registrado?",
+    "reLogin": "Iniciar sesión"
+  },
+  "profile": {
+    "title": "Bienvenido",
+    "userDetail": "Aquí están los detalles de tu usuario",
+    "tableHeader1": "Nombre",
+    "tableHeader2": "Apellido",
+    "tableHeader3": "Correo Electrónico",
+    "tableHeader4": "Contraseña",
+    "tableHeader5": "Confirmar Contraseña",
+    "tableHeader6": "Acciones",
+    "button": "Cerrar sesión"
+  }
+}
